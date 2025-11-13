@@ -14,7 +14,7 @@
 ---
 
 ## 📊 Professional Overview
-DevOps Engineer with +2 years of experience expertise in cloud infrastructure, automation, and CI/CD pipeline implementation. Specialized in Kubernetes, Docker, Terraform, and AWS, with a strong focus on system scalability, monitoring, and high availability.
+Results-driven DevOps Engineer with 2+ years of experience in container orchestration, CI/CD automation, and cloud infrastructure optimization. Proven expertise in architecting and managing scalable Kubernetes clusters, streamlining deployment pipelines, and implementing GitOps workflows to accelerate software delivery. Adept at deploying observability and monitoring solutions to ensure system reliability, performance, and cost efficiency in cloud-native environments. ready to contribute exceptional skills to meet the demands of modern infrastructure.
 
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-brightgreen)
