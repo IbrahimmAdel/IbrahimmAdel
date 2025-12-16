@@ -14,7 +14,7 @@
 ---
 
 ## 📊 Professional Overview
-Results-driven DevOps Engineer with 2+ years of experience in container orchestration, CI/CD automation, and cloud infrastructure optimization. Proven expertise in architecting and managing scalable Kubernetes clusters, streamlining deployment pipelines, and implementing GitOps workflows to accelerate software delivery. Adept at deploying observability and monitoring solutions to ensure system reliability, performance, and cost efficiency in cloud-native environments. ready to contribute exceptional skills to meet the demands of modern infrastructure.
+Results-driven DevOps Engineer with 3+ years of experience in container orchestration, CI/CD automation, and cloud infrastructure optimization. Proven expertise in architecting and managing scalable Kubernetes clusters, streamlining deployment pipelines, and implementing GitOps workflows to accelerate software delivery. Adept at deploying observability and monitoring solutions to ensure system reliability, performance, and cost efficiency in cloud-native environments. ready to contribute exceptional skills to meet the demands of modern infrastructure.
 
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-brightgreen)
@@ -25,20 +25,6 @@ Results-driven DevOps Engineer with 2+ years of experience in container orchestr
 ![AWS](https://img.shields.io/badge/AWS-orange)
 ![Terraform](https://img.shields.io/badge/Terraform-purple)
 ![Nginx](https://img.shields.io/badge/Nginx-green)
----
-
-## 💼 Professional Experience
-
-### **IVolve Technologies - DevOps Engineer** *(Jan 2024 – present)*
-- Containerized micro services with Docker, enabling lightweight and scalable deployments.
-- Built and maintained CI/CD pipelines with Jenkins, automating build, test, and deployment processes, reducing release cycles, and improving deployment reliability. 
-- Implemented GitOps workflows with ArgoCD, enabling automated and version-controlled Kubernetes deployments with rollback capabilities.
-- Monitored Kubernetes clusters and databases using Prometheus and Grafana, improving visibility, proactive alerting, and system performance optimization.
-- Configure and operate SQL and NoSQL databases, including MariaDB and MongoDB, ensuring optimal performance, security, and scalability.
-- Manage cloud migration projects using Hystax, including the deployment and management of the Hystax controller, ensuring seamless and efficient migration processes.
-- Handled Disaster Recovery (DR) failover and failback operations, ensuring business continuity and zero data loss. 
-- Optimize Cloud Management Platform (CMP), overseeing resource allocation, cost control, and performance monitoring to ensure efficient cloud operations.
-
 ---
 
 ## 📈 Key Projects & Contributions
