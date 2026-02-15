@@ -1,10 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bf016858-d74c-435c-bf33-5de082ed3259" width="400" height="auto">
-</p>
-
----
-
 # Ibrahim Adel - DevOps Engineer
 
 ## 📫 Connect with Me
