@@ -42,7 +42,7 @@ Results-driven DevOps Engineer with experience in container orchestration, CI/CD
 ---
 
 ## 📊 Technical Skills
-- **Cloud Computing:** AWS (EC2, S3, Lambda, IAM, RDS, EKS)
+- **Cloud Computing:** AWS (EC2, S3, IAM, RDS, EKS)
 - **Infrastructure as Code:** Terraform
 - **Configuration Management:** Ansible
 - **CI/CD Tools:** Jenkins, GitHub Actions, ArgoCD
